@@ -2,7 +2,9 @@
 
 <!--
 **highCod3r/highCod3r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<h1>High Coder</h1>
+<p>Esta entrada es la portada de la cuenta de github</p>
+<p><img src="https://i.imgur.com/Zwj9Dd7.jpeg"/></p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
